@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Country,City,OrderID,OrderDate,Product,Quantity,UnitPrice,Status,TotalAmount
+1001,Customer_1,India,Abu Dhabi,50001,2026-07-09,Laptop,8,1191.22,Shipped,9529.76
+1002,Customer_2,India,Dubai,50002,2026-07-06,Laptop,9,1101.22,Pending,9910.98
+1003,Customer_3,India,Delhi,50003,2026-07-08,Keyboard,2,1115.64,Pending,2231.28
+1004,Customer_4,India,New York,50004,2026-07-08,Laptop,3,1262.95,Pending,3788.85
+1005,Customer_5,India,Delhi,50005,2026-07-07,Laptop,8,1349.75,Completed,10798.0
+1006,Customer_6,India,Delhi,50006,2026-07-05,Keyboard,9,1438.29,Completed,12944.61
+1007,Customer_7,India,New York,50007,2026-07-08,Phone,7,697.32,Shipped,4881.24
+1008,Customer_8,India,Houston,50008,2026-07-01,Monitor,8,1851.71,Pending,14813.68
+1009,Customer_9,India,New York,50009,2026-07-08,Phone,2,1862.16,Pending,3724.32
+1010,Customer_10,India,Mumbai,50010,2026-07-08,Laptop,1,961.87,Shipped,961.87
+1011,Customer_11,India,Delhi,50011,2026-07-08,Tablet,9,781.58,Pending,7034.22
+1012,Customer_12,India,Mumbai,50012,2026-07-10,Laptop,4,196.34,Shipped,785.36
+1013,Customer_13,India,Chicago,50013,2026-07-07,Phone,8,426.89,Completed,3415.12
+1014,Customer_14,India,Delhi,50014,2026-07-01,Tablet,4,371.08,Completed,1484.32
+1015,Customer_15,India,Dubai,50015,2026-07-06,Keyboard,1,185.96,Pending,185.96
+1016,Customer_16,India,Delhi,50016,2026-07-10,Laptop,10,314.05,Shipped,3140.5
+1017,Customer_17,India,Mumbai,50017,2026-07-08,Monitor,8,714.92,Completed,5719.36
+1018,Customer_18,India,Delhi,50018,2026-07-07,Laptop,1,1082.11,Pending,1082.11
+1019,Customer_19,India,Delhi,50019,2026-07-09,Laptop,9,1736.74,Pending,15630.66
+1020,Customer_20,India,Chicago,50020,2026-07-05,Tablet,6,981.99,Completed,5891.94
