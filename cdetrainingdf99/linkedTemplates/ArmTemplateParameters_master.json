@@ -1,0 +1,78 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "cdetrainingdf99"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"ls_AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"ls_AzureSqlDatabase_password": {
+			"value": ""
+		},
+		"ls_dynamic_azsql_password": {
+			"value": ""
+		},
+		"ls_dynamic_azsql_2_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://cdetrainingstorage.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "@{linkedService().ServerName}"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "@{linkedService().DBName}"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "@{linkedService().User}"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_server": {
+			"value": "@{linkedService().ServerName}"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_database": {
+			"value": "@{linkedService().DbName}"
+		},
+		"AzureSqlDatabase2_properties_typeProperties_userName": {
+			"value": "@{linkedService().User}"
+		},
+		"LS_RestService1_properties_typeProperties_url": {
+			"value": "https://jsonplaceholder.typicode.com/users"
+		},
+		"ls_AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://cdetrainingstorage.dfs.core.windows.net/"
+		},
+		"ls_AzureSqlDatabase_properties_typeProperties_server": {
+			"value": "cdetrainingsqlserver.database.windows.net"
+		},
+		"ls_AzureSqlDatabase_properties_typeProperties_database": {
+			"value": "free-sql-db-7699415"
+		},
+		"ls_AzureSqlDatabase_properties_typeProperties_userName": {
+			"value": "SqlAdmin"
+		},
+		"ls_dynamic_azsql_properties_typeProperties_server": {
+			"value": "cdetrainingsqlserver.database.windows.net"
+		},
+		"ls_dynamic_azsql_properties_typeProperties_database": {
+			"value": "free-sql-db-7699415"
+		},
+		"ls_dynamic_azsql_properties_typeProperties_userName": {
+			"value": "SqlAdmin"
+		},
+		"ls_dynamic_azsql_2_properties_typeProperties_url": {
+			"value": "https://cdetrainingstorage.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
