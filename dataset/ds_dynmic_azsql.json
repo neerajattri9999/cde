@@ -1,0 +1,17 @@
+{
+	"name": "ds_dynmic_azsql",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_dynamic_azsql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "tblserverlist"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
