@@ -1,6 +1,9 @@
 {
 	"name": "dfDEPracticeNee",
 	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "true"
+		},
 		"trustModeClaimForMi": {
 			"value": "Disabled",
 			"editable": true
