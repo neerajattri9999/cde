@@ -1,0 +1,15 @@
+{
+	"name": "dfDEPracticeNee",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5af5edc2-976a-4319-8312-2f37985f70d8",
+		"tenantId": "56c33d61-4b79-4e6f-b3c2-13131ac17207"
+	}
+}
