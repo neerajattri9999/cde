@@ -1,0 +1,9 @@
+{
+	"name": "dfDEPracticeNee",
+	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "true"
+		}
+	},
+	"location": "centralindia"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "cdetrainingdf99",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36d132a3-03a7-46eb-bd56-f91d097d6ac1",
+		"tenantId": "52e63f62-7337-4375-806c-10bb524e6d66"
+	}
+}

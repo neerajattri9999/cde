@@ -1,0 +1,15 @@
+{
+	"name": "cdeADFtrainingneeraj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4400cdb5-ad0b-4ee3-9bac-4525b2a33aa3",
+		"tenantId": "3beaed39-8969-41ab-999a-0acb02a1e550"
+	}
+}
